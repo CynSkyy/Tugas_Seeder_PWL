@@ -1,0 +1,5 @@
+https://github.com/ZaLL-Z/web_route
+https://github.com/ZaLL-Z/Seeder_Pwl
+https://github.com/ZaLL-Z/Pwl_migrationLaravel
+https://github.com/ZaLL-Z/Quiz_PWL
+https://github.com/ZaLL-Z/Tugas_pwl
